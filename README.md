@@ -7,4 +7,7 @@ One common misconception is that KNN is like any other unsupervised learning mod
 
 One thing that is unique in this exploration is that there was a concerted effort to utilize the interactive graphing library: plotly. An unfortunate commonality in machine learning projects is utilizing the default graphing of matplotlib.pyplot should be eschewed. Interactive graphs are more robust and informative to not only professionals, but anyone not well versed in the field of machine learning and/or data science. 
 
-### How to run the code
+### How to run the code:
+Just download the zip file, extract the files, and run the ipynb in Jupyter Notebook or Google Colab.
+The dataset is downloaded from this repository, so no need to find the path to access it.
+
